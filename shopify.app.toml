@@ -6,6 +6,9 @@ handle = "dev-rk-testing"
 application_url = "https://remix-carrier-service.onrender.com/"
 embedded = true
 
+[build]
+automatically_update_urls_on_dev = false
+
 [webhooks]
 api_version = "2025-07"
 
@@ -30,6 +33,3 @@ redirect_urls = [
 
 [pos]
 embedded = false
-
-[build]
-automatically_update_urls_on_dev = false
