@@ -3,7 +3,7 @@
 client_id = "c83e28c8d86d19316b41d28df816b443"
 name = "dev-rk-testing"
 handle = "dev-rk-testing"
-application_url = "https://uncertainty-samba-fan-toolkit.trycloudflare.com"
+application_url = "https://identical-beneficial-initially-celebs.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "customer_read_customers,customer_read_orders,customer_write_orders,read_assigned_fulfillment_orders,read_customers,read_discounts,read_files,read_gift_cards,read_inventory,read_locations,read_markets,read_product_listings,read_products,read_publications,read_shipping,read_third_party_fulfillment_orders,unauthenticated_read_checkouts,unauthenticated_read_customers,unauthenticated_read_product_inventory,unauthenticated_read_product_listings,write_checkouts,write_customers,write_draft_orders,write_files,write_gift_cards,write_merchant_managed_fulfillment_orders,write_order_edits,write_orders,write_products,write_publications,write_shipping,write_third_party_fulfillment_orders"
 
 [auth]
-redirect_urls = ["https://uncertainty-samba-fan-toolkit.trycloudflare.com/auth/callback", "https://uncertainty-samba-fan-toolkit.trycloudflare.com/auth/shopify/callback", "https://uncertainty-samba-fan-toolkit.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://identical-beneficial-initially-celebs.trycloudflare.com/auth/callback", "https://identical-beneficial-initially-celebs.trycloudflare.com/auth/shopify/callback", "https://identical-beneficial-initially-celebs.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
