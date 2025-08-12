@@ -56,8 +56,8 @@ export default defineConfig({
       routes: async (defineRoutes) => {
         return defineRoutes((route) => {
           flatRoutes("routes", defineRoutes);
-          route("/api/customer/customer-details", "api/customer/customer-details.js");
-          route("/api/db-save/data", "api/db-save/data.js");
+          // route("/api/customer/customer-details", "api/customer/customer-details.js");
+          // route("/api/db-save/data", "api/db-save/data.js");
         });
       },
       future: {
